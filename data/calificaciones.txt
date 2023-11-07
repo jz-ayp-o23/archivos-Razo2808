@@ -1,6 +1,6 @@
-Peter Parker 100 95 98 92
-Flash Thompson 70 65 50 80 60
-Ned Leeds 90 86 70 67 98 80
-Liz Allan 80 90 80 76 50 89
-Harry Osborn 100 90 96 98 91
-Michelle Jones 60 70 65 80 89
+PARKER, Peter: 96.2
+THOMPSON, Flash: 65.0
+LEEDS, Ned: 81.8
+ALLAN, Liz: 77.5
+OSBORN, Harry: 95.0
+JONES, Michelle: 72.8
