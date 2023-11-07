@@ -29,3 +29,7 @@ def encriptar_archivo(entrada, desplazamiento):
         with open(salida, "w", encoding="utf8") as f_out:
             for linea in f_in:
                 f_out.write(encriptar(linea, desplazamiento))
+from encriptar import *
+
+
+encriptar_archivo("data/Asimov, Isaac - Cómo ocurrió.txt", 2)
